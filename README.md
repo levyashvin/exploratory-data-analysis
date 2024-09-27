@@ -11,7 +11,7 @@ Saved in github via Colab, notebook can be downloaded directly from Colab using 
 
 <h2>View</h2>
 
-CLick on the <a href="https://github.com/levyashvin/exploratory-data-analysis/blob/main/males_dataset_analysis.ipynb">ipynb file</a> to view assignment.
+Click <a href="https://github.com/levyashvin/exploratory-data-analysis/blob/main/males_dataset_analysis.ipynb">here</a> to view assignment.
 
 <h2>Project status</h2>
 Done upto module 3
